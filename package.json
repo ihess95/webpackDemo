@@ -1,7 +1,6 @@
 {
-  "name": "webpack-demo",
+  "name": "webpackdemo",
   "version": "1.0.0",
-  "description": "",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +16,17 @@
     "webpack-cli": "^5.0.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
-  }
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  },
+  "main": "myName.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihess95/webpackDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ihess95/webpackDemo/issues"
+  },
+  "homepage": "https://github.com/ihess95/webpackDemo#readme",
+  "description": ""
 }
